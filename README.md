@@ -3,8 +3,8 @@ This is a web application built using Node.js, EJS, and MySQL that allows users 
 
 # Requirements
 To run this application locally, you will need to have the following installed on your machine:
-Item Node.js
-Item1 MySQL
+>Node.js, 
+>MySQL
 
 # Installation
 To install the application, follow these steps:
