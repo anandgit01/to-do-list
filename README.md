@@ -13,12 +13,11 @@ Navigate to the root directory of the project in your terminal.
 Run the command npm install to install the required dependencies.
 npm install
 Set up the MySQL database.
-css
 Run the command npm start to start the application.
 npm start
 Open your web browser and navigate to http://localhost:3000 to view the application.
-Usage
-# To use the application, follow these steps:
+# Usage
+To use the application, follow these steps:
 Register for an account by clicking on the "Register" link and filling out the registration form.
 Log in to your account by clicking on the "Log in" link and entering your username and password.
 View your to-do list items on the home page.
